@@ -1,0 +1,37 @@
+{
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "name": "react-gtm-ecommerce",
+  "description": "React enhanced ecommerce gtm",
+  "keywords": [
+    "react",
+    "reactjs",
+    "google tag manager",
+    "ecommerce tag manager",
+    "gtm enhanced ecommerce"
+  ],
+  "author": {
+    "name": "Sandip patel",
+    "email": "sandip254@gmail.com",
+    "url": "https://learn2torials.com"
+  },
+  "bugs": {
+    "url": "https://github.com/alinemorelli/react-gtm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alinemorelli/react-gtm"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "peerDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "jest-cli": "^24.9.0"
+  }
+}
