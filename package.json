@@ -2,11 +2,9 @@
   "license": "MIT",
   "version": "1.0.0",
   "main": "src/index.js",
-  "name": "react-gtm-ecommerce",
-  "description": "React enhanced ecommerce gtm",
+  "name": "ecommerce-gtm",
+  "description": "Enhanced ecommerce for google tag manager",
   "keywords": [
-    "react",
-    "reactjs",
     "google tag manager",
     "ecommerce tag manager",
     "gtm enhanced ecommerce"
@@ -17,11 +15,11 @@
     "url": "https://learn2torials.com"
   },
   "bugs": {
-    "url": "https://github.com/alinemorelli/react-gtm/issues"
+    "url": "https://github.com/learn2torials/ecommerce-gtm/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/alinemorelli/react-gtm"
+    "url": "https://github.com/learn2torials/ecommerce-gtm"
   },
   "scripts": {
     "test": "jest"
